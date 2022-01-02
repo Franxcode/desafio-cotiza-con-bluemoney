@@ -1,0 +1,6 @@
+
+	A la fecha: Thu Sep 03 2020 00:00:00 GMT-0400 (Chile Standard Time)
+	Fue realizada cotización con los siguientes datos:
+	Cantidad de pesos a convertir: 250000 pesos
+	Convertido a "dolar" da un total de: 
+	$324.07
